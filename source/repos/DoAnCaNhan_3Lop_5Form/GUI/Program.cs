@@ -18,24 +18,7 @@ namespace GUI
             //Application.Run(new GUI_QLSinhVien());
             //Application.Run(new GUI_SinhVien());
             //Application.Run(new GUI_QLSinhVien());
-            Application.Run(new Lop());
-
-            //DialogResult dg = new DialogResult();
-            //dg = MessageBox.Show("Bạn có muốn thoát không?", "Hỏi người dùng", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            //if (dg == DialogResult.Yes)
-            //{
-            //    this.Close();
-            //}
-
-
-            //SqlDataAdapter da = new SqlDataAdapter();
-            //DataTable dt = new DataTable();
-            //string sql = "layDuLieuThongKe";
-            //da.SelectCommand = new SqlCommand(sql, conn);
-            //da.SelectCommand.CommandType = CommandType.StoredProcedure;
-            //da.Fill(dt);
-            //return dt;
-
+            Application.Run(new GUI_FromCha());
         }
     }
 }

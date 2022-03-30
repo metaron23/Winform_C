@@ -24,4 +24,3 @@ D:\C#\source\repos\DoAnCaNhan_3Lop_5Form\GUI\bin\Debug\DAL.pdb
 D:\C#\source\repos\DoAnCaNhan_3Lop_5Form\GUI\obj\Debug\GUI.csproj.CopyComplete
 D:\C#\source\repos\DoAnCaNhan_3Lop_5Form\GUI\obj\Debug\GUI.GUI_DoiMatKhau.resources
 D:\C#\source\repos\DoAnCaNhan_3Lop_5Form\GUI\obj\Debug\GUI.GUI_ThemSV.resources
-D:\C#\source\repos\DoAnCaNhan_3Lop_5Form\GUI\obj\Debug\GUI.Lop.resources
