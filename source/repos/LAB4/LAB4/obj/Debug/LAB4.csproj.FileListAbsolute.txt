@@ -1,0 +1,8 @@
+D:\C#\source\repos\LAB4\LAB4\bin\Debug\LAB4.exe.config
+D:\C#\source\repos\LAB4\LAB4\bin\Debug\LAB4.exe
+D:\C#\source\repos\LAB4\LAB4\bin\Debug\LAB4.pdb
+D:\C#\source\repos\LAB4\LAB4\obj\Debug\LAB4.csproj.AssemblyReference.cache
+D:\C#\source\repos\LAB4\LAB4\obj\Debug\LAB4.csproj.SuggestedBindingRedirects.cache
+D:\C#\source\repos\LAB4\LAB4\obj\Debug\LAB4.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\LAB4\LAB4\obj\Debug\LAB4.exe
+D:\C#\source\repos\LAB4\LAB4\obj\Debug\LAB4.pdb

@@ -1,0 +1,12 @@
+D:\C#\source\repos\LamLaiLab7\ThongTinKhachHang\bin\Debug\ThongTinKhachHang.exe.config
+D:\C#\source\repos\LamLaiLab7\ThongTinKhachHang\bin\Debug\ThongTinKhachHang.exe
+D:\C#\source\repos\LamLaiLab7\ThongTinKhachHang\bin\Debug\ThongTinKhachHang.pdb
+D:\C#\source\repos\LamLaiLab7\ThongTinKhachHang\obj\Debug\ThongTinKhachHang.csproj.AssemblyReference.cache
+D:\C#\source\repos\LamLaiLab7\ThongTinKhachHang\obj\Debug\ThongTinKhachHang.csproj.SuggestedBindingRedirects.cache
+D:\C#\source\repos\LamLaiLab7\ThongTinKhachHang\obj\Debug\ThongTinKhachHang.ThongTinKhachHang.resources
+D:\C#\source\repos\LamLaiLab7\ThongTinKhachHang\obj\Debug\ThongTinKhachHang.Properties.Resources.resources
+D:\C#\source\repos\LamLaiLab7\ThongTinKhachHang\obj\Debug\ThongTinKhachHang.csproj.GenerateResource.cache
+D:\C#\source\repos\LamLaiLab7\ThongTinKhachHang\obj\Debug\ThongTinKhachHang.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\LamLaiLab7\ThongTinKhachHang\obj\Debug\ThongTinKhachHang.exe
+D:\C#\source\repos\LamLaiLab7\ThongTinKhachHang\obj\Debug\ThongTinKhachHang.pdb
+D:\C#\source\repos\LamLaiLab7\ThongTinKhachHang\obj\Debug\ThongTinKhachHang.FormCha.resources

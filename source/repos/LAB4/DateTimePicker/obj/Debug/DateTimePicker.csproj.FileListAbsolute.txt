@@ -1,0 +1,11 @@
+D:\C#\source\repos\LAB4\DateTimePicker\bin\Debug\DateTimePicker.exe.config
+D:\C#\source\repos\LAB4\DateTimePicker\bin\Debug\DateTimePicker.exe
+D:\C#\source\repos\LAB4\DateTimePicker\bin\Debug\DateTimePicker.pdb
+D:\C#\source\repos\LAB4\DateTimePicker\obj\Debug\DateTimePicker.csproj.AssemblyReference.cache
+D:\C#\source\repos\LAB4\DateTimePicker\obj\Debug\DateTimePicker.csproj.SuggestedBindingRedirects.cache
+D:\C#\source\repos\LAB4\DateTimePicker\obj\Debug\DateTimePicker.Form1.resources
+D:\C#\source\repos\LAB4\DateTimePicker\obj\Debug\DateTimePicker.Properties.Resources.resources
+D:\C#\source\repos\LAB4\DateTimePicker\obj\Debug\DateTimePicker.csproj.GenerateResource.cache
+D:\C#\source\repos\LAB4\DateTimePicker\obj\Debug\DateTimePicker.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\LAB4\DateTimePicker\obj\Debug\DateTimePicker.exe
+D:\C#\source\repos\LAB4\DateTimePicker\obj\Debug\DateTimePicker.pdb

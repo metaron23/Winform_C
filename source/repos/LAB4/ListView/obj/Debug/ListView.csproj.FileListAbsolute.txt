@@ -1,0 +1,11 @@
+D:\C#\source\repos\Lab4\ListView\bin\Debug\ListView.exe.config
+D:\C#\source\repos\Lab4\ListView\bin\Debug\ListView.exe
+D:\C#\source\repos\Lab4\ListView\bin\Debug\ListView.pdb
+D:\C#\source\repos\Lab4\ListView\obj\Debug\ListView.csproj.AssemblyReference.cache
+D:\C#\source\repos\Lab4\ListView\obj\Debug\ListView.csproj.SuggestedBindingRedirects.cache
+D:\C#\source\repos\Lab4\ListView\obj\Debug\ListView.Form1.resources
+D:\C#\source\repos\Lab4\ListView\obj\Debug\ListView.Properties.Resources.resources
+D:\C#\source\repos\Lab4\ListView\obj\Debug\ListView.csproj.GenerateResource.cache
+D:\C#\source\repos\Lab4\ListView\obj\Debug\ListView.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\Lab4\ListView\obj\Debug\ListView.exe
+D:\C#\source\repos\Lab4\ListView\obj\Debug\ListView.pdb

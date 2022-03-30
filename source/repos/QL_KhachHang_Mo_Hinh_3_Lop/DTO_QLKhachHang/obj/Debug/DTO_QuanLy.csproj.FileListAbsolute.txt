@@ -1,0 +1,6 @@
+D:\C#\source\repos\QL_KhachHang_Mo_Hinh_3_Lop\DTO_QLKhachHang\bin\Debug\DTO_QLKhachHang.dll
+D:\C#\source\repos\QL_KhachHang_Mo_Hinh_3_Lop\DTO_QLKhachHang\bin\Debug\DTO_QLKhachHang.pdb
+D:\C#\source\repos\QL_KhachHang_Mo_Hinh_3_Lop\DTO_QLKhachHang\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+D:\C#\source\repos\QL_KhachHang_Mo_Hinh_3_Lop\DTO_QLKhachHang\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\QL_KhachHang_Mo_Hinh_3_Lop\DTO_QLKhachHang\obj\Debug\DTO_QLKhachHang.dll
+D:\C#\source\repos\QL_KhachHang_Mo_Hinh_3_Lop\DTO_QLKhachHang\obj\Debug\DTO_QLKhachHang.pdb

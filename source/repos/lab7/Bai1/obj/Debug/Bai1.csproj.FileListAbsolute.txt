@@ -1,0 +1,17 @@
+D:\C#\source\repos\lab7\Bai1\bin\Debug\Bai1.exe.config
+D:\C#\source\repos\lab7\Bai1\bin\Debug\Bai1.exe
+D:\C#\source\repos\lab7\Bai1\bin\Debug\Bai1.pdb
+D:\C#\source\repos\lab7\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\C#\source\repos\lab7\Bai1\obj\Debug\Bai1.csproj.SuggestedBindingRedirects.cache
+D:\C#\source\repos\lab7\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+D:\C#\source\repos\lab7\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+D:\C#\source\repos\lab7\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\lab7\Bai1\obj\Debug\Bai1.exe
+D:\C#\source\repos\lab7\Bai1\obj\Debug\Bai1.pdb
+D:\C#\source\repos\lab7\Bai1\obj\Debug\Bai1.frm_DSSV.resources
+D:\C#\source\repos\lab7\Bai1\obj\Debug\Bai1.frm_Form_Cha.resources
+D:\C#\source\repos\lab7\Bai1\obj\Debug\Bai1.frm_Thongtinkhachhang.resources
+D:\C#\source\repos\lab7\Bai1\bin\Debug\Database1.mdf
+D:\C#\source\repos\lab7\Bai1\bin\Debug\Database1_log.ldf
+D:\C#\source\repos\lab7\Bai1\obj\Debug\Bai1.frmdangnhap.resources
+D:\C#\source\repos\lab7\Bai1\obj\Debug\Bai1.chung.resources

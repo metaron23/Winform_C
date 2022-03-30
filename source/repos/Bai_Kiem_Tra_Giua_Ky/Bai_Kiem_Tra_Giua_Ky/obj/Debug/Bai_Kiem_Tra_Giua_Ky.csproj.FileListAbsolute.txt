@@ -1,0 +1,8 @@
+D:\C#\source\repos\Bai_Kiem_Tra_Giua_Ky\Bai_Kiem_Tra_Giua_Ky\bin\Debug\Bai_Kiem_Tra_Giua_Ky.exe.config
+D:\C#\source\repos\Bai_Kiem_Tra_Giua_Ky\Bai_Kiem_Tra_Giua_Ky\bin\Debug\Bai_Kiem_Tra_Giua_Ky.exe
+D:\C#\source\repos\Bai_Kiem_Tra_Giua_Ky\Bai_Kiem_Tra_Giua_Ky\bin\Debug\Bai_Kiem_Tra_Giua_Ky.pdb
+D:\C#\source\repos\Bai_Kiem_Tra_Giua_Ky\Bai_Kiem_Tra_Giua_Ky\obj\Debug\Bai_Kiem_Tra_Giua_Ky.csproj.AssemblyReference.cache
+D:\C#\source\repos\Bai_Kiem_Tra_Giua_Ky\Bai_Kiem_Tra_Giua_Ky\obj\Debug\Bai_Kiem_Tra_Giua_Ky.csproj.SuggestedBindingRedirects.cache
+D:\C#\source\repos\Bai_Kiem_Tra_Giua_Ky\Bai_Kiem_Tra_Giua_Ky\obj\Debug\Bai_Kiem_Tra_Giua_Ky.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\Bai_Kiem_Tra_Giua_Ky\Bai_Kiem_Tra_Giua_Ky\obj\Debug\Bai_Kiem_Tra_Giua_Ky.exe
+D:\C#\source\repos\Bai_Kiem_Tra_Giua_Ky\Bai_Kiem_Tra_Giua_Ky\obj\Debug\Bai_Kiem_Tra_Giua_Ky.pdb

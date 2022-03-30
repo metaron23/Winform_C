@@ -1,0 +1,8 @@
+D:\C#\source\repos\LAB3\Program\bin\Debug\Program.exe.config
+D:\C#\source\repos\LAB3\Program\bin\Debug\Program.exe
+D:\C#\source\repos\LAB3\Program\bin\Debug\Program.pdb
+D:\C#\source\repos\LAB3\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+D:\C#\source\repos\LAB3\Program\obj\Debug\Program.csproj.SuggestedBindingRedirects.cache
+D:\C#\source\repos\LAB3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\LAB3\Program\obj\Debug\Program.exe
+D:\C#\source\repos\LAB3\Program\obj\Debug\Program.pdb

@@ -1,0 +1,13 @@
+D:\C#\source\repos\LAB4\Test_Winform\bin\Debug\Test_Winform.exe.config
+D:\C#\source\repos\LAB4\Test_Winform\bin\Debug\Test_Winform.exe
+D:\C#\source\repos\LAB4\Test_Winform\bin\Debug\Test_Winform.pdb
+D:\C#\source\repos\LAB4\Test_Winform\obj\Debug\Test_Winform.csproj.AssemblyReference.cache
+D:\C#\source\repos\LAB4\Test_Winform\obj\Debug\Test_Winform.csproj.SuggestedBindingRedirects.cache
+D:\C#\source\repos\LAB4\Test_Winform\obj\Debug\Test_Winform.Properties.Resources.resources
+D:\C#\source\repos\LAB4\Test_Winform\obj\Debug\Test_Winform.csproj.GenerateResource.cache
+D:\C#\source\repos\LAB4\Test_Winform\obj\Debug\Test_Winform.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\LAB4\Test_Winform\obj\Debug\Test_Winform.exe
+D:\C#\source\repos\LAB4\Test_Winform\obj\Debug\Test_Winform.pdb
+D:\C#\source\repos\Lab4\Test_Winform\obj\Debug\Test_Winform.frm_QLSV.resources
+D:\C#\source\repos\Lab4\Test_Winform\obj\Debug\Test_Winform.frm_Cau3.resources
+D:\C#\source\repos\Lab4\Test_Winform\obj\Debug\Test_Winform.frm_Cau2.resources

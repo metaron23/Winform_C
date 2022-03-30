@@ -1,0 +1,11 @@
+D:\C#\source\repos\DoAnCaNhan_3Lop_5Form\BUS\bin\Debug\BUS.dll
+D:\C#\source\repos\DoAnCaNhan_3Lop_5Form\BUS\bin\Debug\BUS.pdb
+D:\C#\source\repos\DoAnCaNhan_3Lop_5Form\BUS\bin\Debug\DAL.dll
+D:\C#\source\repos\DoAnCaNhan_3Lop_5Form\BUS\bin\Debug\DTO.dll
+D:\C#\source\repos\DoAnCaNhan_3Lop_5Form\BUS\bin\Debug\DAL.pdb
+D:\C#\source\repos\DoAnCaNhan_3Lop_5Form\BUS\bin\Debug\DTO.pdb
+D:\C#\source\repos\DoAnCaNhan_3Lop_5Form\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\C#\source\repos\DoAnCaNhan_3Lop_5Form\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\C#\source\repos\DoAnCaNhan_3Lop_5Form\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\C#\source\repos\DoAnCaNhan_3Lop_5Form\BUS\obj\Debug\BUS.dll
+D:\C#\source\repos\DoAnCaNhan_3Lop_5Form\BUS\obj\Debug\BUS.pdb
