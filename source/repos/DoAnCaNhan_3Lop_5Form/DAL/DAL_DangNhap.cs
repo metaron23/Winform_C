@@ -1,5 +1,4 @@
 ﻿using DTO;
-using System;
 using System.Data.SqlClient;
 
 namespace DAL
@@ -9,20 +8,14 @@ namespace DAL
         public int kiemTraDangNhap(DTO_DNDangNhap a)
         {
             string sql = "checkDangnhap";
-            int kq = -1;
-            try
-            {
-            SqlCommand comm = new SqlCommand();
-            comm.CommandText = sql;
+            SqlCommand comm = new SqlCommand(sql, conn);
             comm.CommandType = System.Data.CommandType.StoredProcedure;
             comm.Parameters.AddWithValue("@matk", a.Matk);
             comm.Parameters.AddWithValue("@pass", a.Pass);
-            comm.Connection = conn;
+            int kq = -1;
             conn.Open();
             kq = (int)comm.ExecuteScalar();
             conn.Close();
-            }
-            catch { }
             return kq;
         }
     }

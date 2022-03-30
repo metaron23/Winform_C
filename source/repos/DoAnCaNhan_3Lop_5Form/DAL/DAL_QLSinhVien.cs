@@ -121,7 +121,8 @@ namespace DAL
             catch { }
             return false;
         }
-
+        //public bool xoaSinhVienvaTK(DTO_QLSV_TTSV dt)
+        //{ }
         public DataTable timKiem(string chuoi)
         {
             SqlDataAdapter da = new SqlDataAdapter();

@@ -55,7 +55,7 @@ namespace GUI
         private void btn_thoat_Click(object sender, EventArgs e)
         {
             DialogResult dg = new DialogResult();
-            dg = MessageBox.Show("Bạn có muốn thoát không?", "Hỏi người dùng", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            dg = MessageBox.Show("ban co muon dong form dang nhap?", "hoi nguoi dung", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (dg == DialogResult.Yes)
             {
                 this.Close();
